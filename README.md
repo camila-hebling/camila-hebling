@@ -4,7 +4,7 @@
 **camila-hebling/camila-hebling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[WIP] - WORK IN PROGRESS
+WORK IN PROGRESS
 
 More thinks about me: 
 - 🔭 I’m currently working on product gestão-clientes, this product consist in a only one vision of the client of Centauro plataforms.

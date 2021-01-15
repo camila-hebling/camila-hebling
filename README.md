@@ -16,4 +16,4 @@
  ### Nicknames:
  ###     - MI, MILA, CAMIS, NACK! 
 ### - ⚡ Fun fact:
-###       - I love play video games, i have PS4, XBOX ONE, Nintendo Switch, Desktop! And have 
+###       - I love play video games, i have PS4, XBOX ONE, Nintendo Switch, Desktop!
